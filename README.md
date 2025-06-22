@@ -1,4 +1,4 @@
-# 🚀 DevOps Portfolio Project: Microservices Deployment Pipeline
+# 🚀 DevOps Project: Microservices Deployment Pipeline
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/devops-microservices-pipeline)
 [![Docker](https://img.shields.io/badge/docker-containerized-blue.svg)](https://www.docker.com/)
